@@ -1,0 +1,8 @@
+com/example/calculator/BuildConfig.java
+ com.example.calculator.BuildConfig
+com/example/calculator/MainActivity.java
+ com.example.calculator.MainActivity
+ com.example.calculator.MainActivity$1
+com/example/calculator/splashscreen.java
+ com.example.calculator.splashscreen
+ com.example.calculator.splashscreen$1
